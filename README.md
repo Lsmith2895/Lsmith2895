@@ -6,3 +6,5 @@
   
   
 ![Lsmith2895's github stats](https://github-readme-stats.vercel.app/api?username=Lsmith2895&show_icons=true&theme=maroongold)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lsmith2895&layout=compact)](https://github.com/lsmith/github-readme-stats)
