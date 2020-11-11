@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋  and Welcome
   Thanks for checking out my page!
   I am currently working on a full stack application [Find My Furry Friend!](https://github.com/Lsmith2895/FindMyFurryFriend) 
   
