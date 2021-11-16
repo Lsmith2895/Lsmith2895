@@ -1,5 +1,5 @@
 <!-- Welcome Text  -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%232C40B3&lines=Thanks+for+visiting+my+Page%2C+I+am+Logan+Smith+a+U.S.+Air+force+Veteran+and+Software+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%232C40B3&lines=Thanks+for+visiting+my+Page%2C;+I+am+Logan+Smith+a+U.S.+Air+force+;Veteran+and+Software+Engineer)](https://git.io/typing-svg)
   
 <!-- LinkedIn Contact -->
 <a href="https://www.linkedin.com/in/LSmith2895/" target="_blank">
