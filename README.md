@@ -9,7 +9,3 @@
 <a href="mailto:lsmith2895@gmail.com">
   <img src="https://img.shields.io/badge/EMAIL-lsmith2895@gmail.com-d44638?style=for-the-badge"/>
 </a>
-  
-![Lsmith2895's github stats](https://github-readme-stats.vercel.app/api?username=Lsmith2895&show_icons=true&theme=maroongold)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lsmith2895)](https://github.com/lsmith/github-readme-stats)
